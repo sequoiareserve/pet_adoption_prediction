@@ -10,7 +10,7 @@ https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-stati
 https://www.elephantjournal.com/2015/09/kill-vs-no-kill-shelters-the-great-debate/ http://www.austintexas.gov/sites/default/files/files/Animal_Services/aac_no_kill_implementation_plan.pdf 
 
 
-III. Methodology
+II. Methodology
 
 Data Preprocessing
 
