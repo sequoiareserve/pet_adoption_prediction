@@ -22,7 +22,4 @@ Some data did not possess valid information in the entries, and these were disca
 
 How to handle transfers
 
-Implementation
-Refinement
-
-IV. Results
+III. Results
