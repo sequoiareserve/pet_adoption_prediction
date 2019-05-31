@@ -1,5 +1,5 @@
 # pet_adoption_prediction
-Project to analyze adoption trends from the Austin Humane Society
+Project to analyze adoption trends from the Austin Humane Society.
 
 I. Definition
 By estimates from the ASPCA, there are over 6.5 million animals entering animal shelters each year in the United States, and of those 1.5 million animals are euthanized, 3.2 million are adopted, and 720,000 are returned to their owners. Animal shelters provide many services to pet owners, from rehoming pets and providing owners adequate resources to help train and care for them, to returning lost pets to their original owners, and in the case of a no-kill shelter, caring for the animal until the end of its life.   
